@@ -1,0 +1,7 @@
+C:\Users\vishw\Desktop\Hero assignmenet\obj\Debug\Hero assignment.csprojAssemblyReference.cache
+C:\Users\vishw\Desktop\Hero assignmenet\obj\Debug\Hero assignment.csproj.CoreCompileInputs.cache
+C:\Users\vishw\Desktop\Hero assignmenet\bin\Debug\Hero assignmenet.exe.config
+C:\Users\vishw\Desktop\Hero assignmenet\bin\Debug\Hero assignmenet.exe
+C:\Users\vishw\Desktop\Hero assignmenet\bin\Debug\Hero assignmenet.pdb
+C:\Users\vishw\Desktop\Hero assignmenet\obj\Debug\Hero assignmenet.exe
+C:\Users\vishw\Desktop\Hero assignmenet\obj\Debug\Hero assignmenet.pdb
